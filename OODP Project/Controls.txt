@@ -4,4 +4,4 @@ spacebar: jump
 number keys: change tools & blocks
 right click: break entities
 left block: place entitites
-"Dont jump too high you may lost a life!"
+"Dont jump too high you may lose a life!"
